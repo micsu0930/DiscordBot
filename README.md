@@ -2,7 +2,7 @@
 Discord bot zene játszáshoz
 
 ___DEPENDENCIES___
-__
+_ _
 _-PyNaCl (pip install PyNaCl.py)_
 
 _-ytdl (pip install ytdl.py)_
